@@ -1,0 +1,17 @@
+mysql:
+  host: '127.0.0.1'
+  port: 3306
+  username: 'root'
+  password: 'password'
+  database: 'database'
+  table: 'discordlink'
+config:
+  keylenght: 8
+msg:
+  prefix: '&c&lCentrixPvP &8&l> &f'
+  subcommandnotfound: '&cSub command not found!'
+  linkcmd: '&a/discord link'
+  keysuccessful: '&bYou key has successfully been generated, your key is: &8&l'
+  error: '&cThere was a error, Please contact a administaor about this issuse!'
+  havekey: '&bYou already have a key assigened to your username, your key is: &8&l'
+  keybeenused: '&cYour key has been used!'
